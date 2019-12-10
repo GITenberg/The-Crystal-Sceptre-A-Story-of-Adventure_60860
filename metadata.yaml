@@ -1,5 +1,8 @@
 _repo: The-Crystal-Sceptre-A-Story-of-Adventure_60860
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60860-h/images/cover.jpg
 creator:
   author:
     agent_name: Mighels, Philip Verrill
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '6820'
     url: http://www.gutenberg.org/2009/agents/6820
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60860#The-Crystal-Sceptre-A-Story-of-Adventure
 gutenberg_issued: '2019-12-06'
 gutenberg_type: Text
 identifiers:
